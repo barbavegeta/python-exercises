@@ -20,9 +20,3 @@ Here are some of the key exercises in this repository:
 2. **Data Visualization**:
    - File: `data_analysis/plot_data.py`
    - Description: Generates bar charts and scatter plots using Matplotlib.
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/python-exercises.git
